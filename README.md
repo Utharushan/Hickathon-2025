@@ -1,1 +1,1 @@
-# Hickaton-2025
+# Hickathon-2025
